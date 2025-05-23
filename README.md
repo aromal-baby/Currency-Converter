@@ -5,7 +5,7 @@ Project done on python, the GUI is done using HTML and Js using the flak as the 
 
 Current forex rates are acquired through Open API
 
-#Tells stack
+#Teeh stack
 
 python is used to develop the backendused flask as framework to hold the
 GUI and the backend together
